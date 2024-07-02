@@ -13,7 +13,7 @@ export const NavigationLinks: NavigationLink[] = [
     { name: 'Posts', url: '/posts' },
     { name: 'Category', url: '/categories' },
     { name: 'Timeline', url: '/timeline' },
-    { name: 'About', url: '/posts/about-godruoyi' },
+    { name: 'About', url: '/posts/gblog' },
     { name: 'Friends', url: '/friends' },
 ]
 
